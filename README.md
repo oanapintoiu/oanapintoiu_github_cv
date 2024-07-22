@@ -35,7 +35,7 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 **Software Development Bootcamp & Self-Directed Learning, Makers Academy & freeCodeCamp (Jun 2023 - present)**
 - Gained the [Responsive Web Design Certification](https://www.freecodecamp.org/certification/opin/responsive-web-design) and [JavaScript Algorithms and Data Structures Certification]().
 - Enhanced HTML and CSS skills through app development, applying modern techniques such as CSS variables, Flexbox, and CSS Grid, and focusing on animation, typography, and accessibility best practices.
-- Reinforced and expanded my JavaScript foundation by mastering fundamentals such as variables, arrays, objects, loops, functions, the DOM, and further enhancing my knowledge of Object-Oriented Programming (OOP), Functional Programming, algorithmic thinking, local storage management, and API data fetchin.
+- Reinforced and expanded my JavaScript foundation by mastering fundamentals such as variables, arrays, objects, loops, functions, the DOM, and further enhancing my knowledge of Object-Oriented Programming (OOP), Functional Programming, algorithmic thinking, local storage management, and API data fetching.
 
 
 **Software Development Bootcamp, Makers Academy (Feb 2023 - Jun 2023)**
