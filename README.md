@@ -19,7 +19,7 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 ## SKILLS
 
 **FRONTEND:** HTML, CSS, Javascript, React, Cypress  
-**BACKEND:** Javascript, Node.js, Express, Jest, Ruby, RSpec
+**BACKEND:** Javascript, Node.js, Express, Jest, Ruby, RSpec     
 **DATABASES:** MongoDB, Mongoose, PostgreSQL, SQL  
 **DESIGN/TOOLS:** Canva, Figma, Github, VSCode, MS Office Suite, Cloud Content Management  
 **METHODOLOGIES:** Agile & Traditional Project Management, Test-Driven Development (TDD), Object-oriented Programming (OOP), Change Management   
