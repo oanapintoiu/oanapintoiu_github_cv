@@ -41,32 +41,15 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 - Led and collaborated in Agile scrum teams, enhancing problem-solving skills through pair programming, code reviews, and iterative development.
 - Applied Object-Oriented Programming (OOP) and SOLID design principles, managed version control with GitHub, and gained experience with APIs, database management, and CI/CD practices.
 
-## PROJECTS HIGHLIGHTS
+## PROJECTS
 
-**[Study Buddy](https://github.com/oanapintoiu/study_buddy_v2_op)**  
-_Type:_ Group Project   
-_Technologies:_ MongoDB, Express, React, Node.js, OpenAI API, HTML, CSS, JavaScript, Jest, Cypress    
-_Description:_ A web app which enables users to sign up, login, update their profiles, create study groups based on interests and level of knowledge. Users can join, leave and delete groups and within their own chat group, they can access Sheldon AI for support. 
-
-**[Moangoose](https://github.com/oanapintoiu/moangoose-mern)**  
-_Type:_ Group Project     
-_Technologies:_ MongoDB, Express, React, Node.js, HTML, CSS, JavaScript, Jest, Cypress     
-_Description:_ A social media web app which enables users to sign up, login, update their photos, write, edit, like other posts and delete their own posts.
-
-**[Bank Tech Test](https://github.com/oanapintoiu/bank_tech_test)**  
-_Type:_ Solo Project     
-_Technologies:_ JavaScript, Node, Jest      
-_Description:_ A program that offers core bank features including deposit/withdraw and print formatted statements. 
-
-**[Gradebook App](https://github.com/oanapintoiu/gradebook_app)**  
-_Type:_ Solo Project     
-_Technologies:_ JavaScript, Node, Jest      
-_Description:_ A simple gradebook app that can calculate an average, conver a number range into a letter, check if a student passed or failed and will print out a message. 
-
-**[Byte & Brew Cafe Menu](https://github.com/oanapintoiu/cafe_menu)**  
-_Type:_ Solo Project     
-_Technologies:_ HTML, CSS      
-_Description:_ A cafe menu concept designed to be a simple, elegant representation of a cafe's offerings. The design features a modern layout with icons and a background image to enhance the visual appeal. 
+| Project                 | Status       | Description                  | Technologies    | 
+|-------------------------|--------------|------------------------------|-----------------|
+| [Study Buddy](https://github.com/oanapintoiu/study_buddy_v2_op)| Group | A web app that enables users to sign up, login, update their profiles, create study groups based on interests and level of knowledge. Users can join, leave, and delete groups and within their chat group, they can access Sheldon AI for support. | MongoDB, Express, React, Node.js, OpenAI API, HTML, CSS, JavaScript, Jest, Cypress |
+| [Moangoose](https://github.com/oanapintoiu/moangoose-mern) | Group | A social media web app that enables users to sign up, login, update their photos, write, edit, like other posts, and delete their own posts. | MongoDB, Express, React, Node.js, HTML, CSS, JavaScript, Jest, Cypress |
+| [Bank Tech Test](https://github.com/oanapintoiu/bank_tech_test) | Solo | A program that offers core bank features including deposit/withdraw and print formatted statements. | JavaScript, Node, Jest |
+| [Gradebook App](https://github.com/oanapintoiu/gradebook_app) | Solo | A simple gradebook app that can calculate an average, cover a number range into a letter, check if a student passed or failed, and print out a message. | JavaScript, Node, Jest |
+| [Byte & Brew Cafe Menu](https://github.com/oanapintoiu/cafe_menu) | Solo | A cafe menu concept designed to be a simple, elegant representation of a cafe's offerings. The design features a modern layout with icons and a background image to enhance the visual appeal. | HTML, CSS |
 
 ## RELEVANT WORK EXPERIENCE
 
