@@ -11,7 +11,7 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 <div align="left">
   <a href="https://www.linkedin.com/in/oanapintoiu">
     <img src="https://img.shields.io/badge/LinkedIn-blue" width="auto" height="30" alt="linkedin logo"  /> </a>
- <a href="">
+ <a href="https://www.dropbox.com/scl/fi/sjddygo82kfq1z2k6yc9j/Oana_Pintoiu_Resume.pdf?rlkey=dife6x6hyfzlcu9i76gbxnz86&st=315mac0v&dl=0">
      <img src="https://img.shields.io/badge/Resume-darkgreen" width="auto" height="30" alt="resume" />  </a>
       <a href="">
      <img src="https://img.shields.io/badge/freeCodeCamp-navy" width="auto" height="30" alt="freeCodeCamp logo" />  </a>
