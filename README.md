@@ -49,7 +49,7 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 
 ## Most Relevant Work Experience:
 
-**TRANSFORMATIONS PROGRAMME MANAGER, Schneider Electric (Sep 2019 - Feb 2023)**
+**Transformations Programme Manager, Schneider Electric (Sep 2019 - Feb 2023)**
 - Acted as Chief of Staff to the Vice President in developing and executing strategic initiatives to enhance people engagement and business development.
 - Guided the development and drafting of frameworks, policies, and procedures focusing on wellbeing, Diversity, Equity, and Inclusion (DEI), health and safety, communication strategies, digitalization, process optimization, and employee development.
 - Established a comprehensive strategy alongside various departmental stakeholders for recruiting diverse talent in engineering which included hiring pathways, robust training programs, career advancement frameworks, and seamless team integration.
@@ -58,7 +58,7 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 - Enhanced and carried out the UK&I Well-being strategy for 4.5k employees, collaborating closely with the Global Wellbeing Team and UK Executive Committee to ensure alignment with organizational goals.
 
 
-**DIGITAL ENERGY GRADUATE ENGINEER, Schenider Electric (Sep 2018 - Sep 2019)**
+**Digital Energy Graduate, Schenider Electric (Sep 2018 - Sep 2019)**
 - Joined Schneider Electric as a technical graduate, gaining exposure to various key technical departments and acquiring insights into the operational aspects of the business.
 - Directed the initiative to integrate Augmented Reality (AR) into client product presentations, the project being nominated in the Top 10 Initiatives to Improve Growth within Schneider Electric UK&I.
 - Managed a +£250k Building Management System (BMS) transition project as Project Manager, coordinating with various departments and vendors, supporting on-site and off-site engineers, and ensuring the Quality Management Processes are followed.
