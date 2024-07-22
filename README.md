@@ -1,33 +1,36 @@
 
 # Oana Pintoiu | Software Developer 
 
-[ABOUT ME](#-about-me) | [SKILLS](#-tech-skills) | [TECH EXPERIENCE](#-tech-experience) | [PROJECTS HIGHLIGHTS](#-projects-highlights) | [RELEVANT WORK EXPERIENCE](#relevant-work-experience) | [EDUCATION](#-education)
 
-## ABOUT ME
+[About me](#about-me) | [Skills](#skills) | [Tech Experience](#tech-experience) | [Projects](#projects) | [Work Experience](#most-relevant-work-experience) | [Education](#education)
+
+## About me:
 
 Experienced Transformations Programme Manager with a degree in engineering, and recent graduate of the prestigious Makers Academy Software Development Bootcamp, I am eager to use my diverse skill set in a dynamic software engineering role.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/oanapintoiu">
-    <img src="https://img.shields.io/badge/LinkedIn-blue" width="auto" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-blue" width="auto" height="30" alt="linkedin logo"  /> </a>
  <a href="">
      <img src="https://img.shields.io/badge/Resume-darkgreen" width="auto" height="30" alt="resume" />  </a>
       <a href="">
      <img src="https://img.shields.io/badge/freeCodeCamp-navy" width="auto" height="30" alt="freeCodeCamp logo" />  </a>
 </div>
 
-## SKILLS
+## Skills:
 
-**FRONTEND:** HTML, CSS, Javascript, React, Cypress  
-**BACKEND:** Javascript, Node.js, Express, Jest, Ruby, RSpec     
-**DATABASES:** MongoDB, Mongoose, PostgreSQL, SQL  
-**DESIGN/TOOLS:** Canva, Figma, Github, VSCode, MS Office Suite, Cloud Content Management  
-**METHODOLOGIES:** Agile & Traditional Project Management, Test-Driven Development (TDD), Object-oriented Programming (OOP), Change Management   
-**PROJECT MANAGEMENT:** Strategic Planning, Performance Metrics & KPIs, Business Strategy, Digital Transformation, Project Management Tool   
-**LEADERSHIP:** Team & Stakeholder Management, Transformational Leadership & Development, Coaching & Mentoring, Ethical Conduct 
-**PROFESSIONAL TRAITS:** Adaptability, Strategic Vision, Cross-Functional Collaboration, Result-Oriented, Employee Wellness
+| Category      | Skills/Technologies       |    
+|--------------|------------|
+|**Frontend** | HTML, CSS, Javascript, React, Cypress|  
+|**Backend** |Javascript, Node.js, Express, Jest, Ruby, RSpec|
+|**Databases** |MongoDB, Mongoose, PostgreSQL, SQL|
+|**Design & Tools** |Canva, Figma, Github, VSCode, MS Office Suite, Cloud Content Management  |
+|**Methodologies** |Agile & Traditional Project Management, Test-Driven Development (TDD), Object-oriented Programming (OOP), Change Management |  
+|**Project Management** |Strategic Planning, Performance Metrics & KPIs, Business Strategy, Digital Transformation, Project Management Tool|   
+|**Leadership** |Team & Stakeholder Management, Transformational Leadership & Development, Coaching & Mentoring, Ethical Conduct| 
+|**Professional Traits** |Adaptability, Strategic Vision, Cross-Functional Collaboration, Result-Oriented, Employee Wellness|
 
-## TECH EXPERIENCE
+## Tech Experience:
 
 **Software Development Bootcamp & Self-Directed Learning, Makers Academy & freeCodeCamp (Jun 2023 - present)**
 - Gained the [Responsive Web Design Certification](https://www.freecodecamp.org/certification/opin/responsive-web-design) and [JavaScript Algorithms and Data Structures Certification]().
@@ -35,23 +38,23 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 - Reinforced and expanded my JavaScript foundation by mastering fundamentals such as variables, arrays, objects, loops, functions, and the DOM, and deepening my expertise in OOP, Functional Programming, algorithmic thinking, local storage management, and API data fetchin.
 
 
-**Makers Academy, Software Development Trainee (Feb 2023 - Jun 2023)**
+**Software Development Bootcamp, Makers Academy (Feb 2023 - Jun 2023)**
 - Completed an intensive Software Engineering Bootcamp at Makers Academy, gaining hands-on experience in full-stack development with JavaScript, Ruby, Ruby on Rails, HTML, CSS, PostgreSQL, and MongoDB.
 - Built and deployed dynamic web applications, utilizing modern technologies such as React.js, Node.js, and Express.js, while applying Agile methodologies and Test-Driven Development (TDD).
 - Led and collaborated in Agile scrum teams, enhancing problem-solving skills through pair programming, code reviews, and iterative development.
 - Applied Object-Oriented Programming (OOP) and SOLID design principles, managed version control with GitHub, and gained experience with APIs, database management, and CI/CD practices.
 
-## PROJECTS
+## Projects:
 
-| Project                 | Status       | Description                  | Technologies    | 
-|-------------------------|--------------|------------------------------|-----------------|
-| [Study Buddy](https://github.com/oanapintoiu/study_buddy_v2_op)| Group | A web app that enables users to sign up, login, update their profiles, create study groups based on interests and level of knowledge. Users can join, leave, and delete groups and within their chat group, they can access Sheldon AI for support. | MongoDB, Express, React, Node.js, OpenAI API, HTML, CSS, JavaScript, Jest, Cypress |
-| [Moangoose](https://github.com/oanapintoiu/moangoose-mern) | Group | A social media web app that enables users to sign up, login, update their photos, write, edit, like other posts, and delete their own posts. | MongoDB, Express, React, Node.js, HTML, CSS, JavaScript, Jest, Cypress |
+| Project                 | Type       | Description      | Technologies    | 
+|-------------------------|------------|------------------|-----------------|
+| [Study Buddy](https://github.com/oanapintoiu/study_buddy_v2_op)| Group | A web app which enables users to sign up, login, update their profiles, create study groups based on interests and level of knowledge. Users can join, leave and delete groups and within their own chat group, they can access Sheldon AI for support. | MongoDB, Express, React, Node.js, OpenAI API, HTML, CSS, JavaScript, Jest, Cypress |
+| [Moangoose](https://github.com/oanapintoiu/moangoose-mern) | Group | A social media web app which enables users to sign up, login, update their photos, write, edit, like other posts and delete their own posts. | MongoDB, Express, React, Node.js, HTML, CSS, JavaScript, Jest, Cypress |
 | [Bank Tech Test](https://github.com/oanapintoiu/bank_tech_test) | Solo | A program that offers core bank features including deposit/withdraw and print formatted statements. | JavaScript, Node, Jest |
-| [Gradebook App](https://github.com/oanapintoiu/gradebook_app) | Solo | A simple gradebook app that can calculate an average, cover a number range into a letter, check if a student passed or failed, and print out a message. | JavaScript, Node, Jest |
+| [Gradebook App](https://github.com/oanapintoiu/gradebook_app) | Solo | A simple gradebook app that can calculate an average, conver a number range into a letter, check if a student passed or failed and will print out a message. | JavaScript, Node, Jest |
 | [Byte & Brew Cafe Menu](https://github.com/oanapintoiu/cafe_menu) | Solo | A cafe menu concept designed to be a simple, elegant representation of a cafe's offerings. The design features a modern layout with icons and a background image to enhance the visual appeal. | HTML, CSS |
 
-## RELEVANT WORK EXPERIENCE
+## Most Relevant Work Experience:
 
 **TRANSFORMATIONS PROGRAMME MANAGER, Schneider Electric (Sep 2019 - Feb 2023)**
 - Acted as Chief of Staff to the Vice President in developing and executing strategic initiatives to enhance people engagement and business development.
@@ -68,7 +71,8 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 - Managed a +£250k Building Management System (BMS) transition project as Project Manager, coordinating with various departments and vendors, supporting on-site and off-site engineers, and ensuring the Quality Management Processes are followed.
 - Worked in Field Services on-site, assisting clients and consultants with data collection, and developing a strategy to enhance the setup and use of an enterprise server.
 
-## EDUCATION
-**BSc RENEWABLE ENERGY SYSTEMS, University of South Wales (Sep 2014 - Jul 2017)**
+## Education:
+**BSc Renewable Energy Systems, University of South Wales (Sep 2014 - Jul 2017)**
 
 _Highlights:_ Project Management, PLC Programming, Electrical System and Layout Design in ETAP and Proteus, Sustainability Issues and Policies, Electric Vehicles Technology.
+
