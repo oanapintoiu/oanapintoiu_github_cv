@@ -21,28 +21,21 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 
 | Category      | Skills/Technologies       |    
 |--------------|------------|
-|**Frontend** | HTML, CSS, Javascript, React, Cypress|  
-|**Backend** |Javascript, Node.js, Express, Jest, Ruby, RSpec|
-|**Databases** |MongoDB, Mongoose, PostgreSQL, SQL|
-|**Design & Tools** |Canva, Figma, Github, VSCode, MS Office Suite, Cloud Content Management  |
-|**Methodologies** |Agile & Traditional Project Management, Test-Driven Development (TDD), Object-oriented Programming (OOP), Change Management |  
-|**Project Management** |Strategic Planning, Performance Metrics & KPIs, Business Strategy, Digital Transformation, Project Management Tool|   
-|**Leadership** |Team & Stakeholder Management, Transformational Leadership & Development, Coaching & Mentoring, Ethical Conduct| 
+|**Programming Skills** |HTML, CSS, Javascript, Ruby, Jest, RSpec, MongoDB, Express, React, Mongoose, Node.js, PostgreSQL, SQL, Cypress|
+|**Methodologies** |Agile & Traditional Project Management, Test-Driven Development (TDD), Object-oriented Programming (OOP), Change Management |
+|**Design & Development Tools** |Canva, Figma, Github, VSCode, MS Office Suite, Project Management Tools, Cloud Content Management  |
+|**Management Skills** |Strategic Planning, Performance Metrics & KPIs, Business Strategy, Digital Transformation, Team & Stakeholder Management, Transformational Leadership & Development, Coaching & Mentoring, Ethical Conduct|
 |**Professional Traits** |Adaptability, Strategic Vision, Cross-Functional Collaboration, Result-Oriented, Employee Wellness|
 
 ## Tech Experience:
 
 **Software Development Bootcamp & Self-Directed Learning, Makers Academy & freeCodeCamp (Jun 2023 - present)**
-- Gained the [Responsive Web Design Certification](https://www.freecodecamp.org/certification/opin/responsive-web-design) and [JavaScript Algorithms and Data Structures Certification]().
-- Enhanced HTML and CSS skills through app development, applying modern techniques such as CSS variables, Flexbox, and CSS Grid, and focusing on animation, typography, and accessibility best practices.
-- Reinforced and expanded my JavaScript foundation by mastering fundamentals such as variables, arrays, objects, loops, functions, the DOM, and further enhancing my knowledge of Object-Oriented Programming (OOP), Functional Programming, algorithmic thinking, local storage management, and API data fetching.
-
-
-**Software Development Bootcamp, Makers Academy (Feb 2023 - Jun 2023)**
-- Completed an intensive Software Engineering Bootcamp at Makers Academy, gaining hands-on experience in full-stack development with JavaScript, Ruby, Ruby on Rails, HTML, CSS, PostgreSQL, and MongoDB.
-- Built and deployed dynamic web applications, utilizing modern technologies such as React.js, Node.js, and Express.js, while applying Agile methodologies and Test-Driven Development (TDD).
+- Completed an intensive 16 weeks Software Engineering Bootcamp at Makers Academy, gaining hands-on experience in full-stack development.
+- Earned freeCodeCamp certifications in [Responsive Web Design Certification](https://www.freecodecamp.org/certification/opin/responsive-web-design) and [JavaScript Algorithms & Data Structures Certification](), with ongoing progress toward additional certifications.
+- Built and deployed dynamic web applications using technologies such as MongoDB, Express.js, React.js, and Node.js, while applying Agile methodologies and Test-Driven Development (TDD).
 - Led and collaborated in Agile scrum teams, enhancing problem-solving skills through pair programming, code reviews, and iterative development.
 - Applied Object-Oriented Programming (OOP) and SOLID design principles, managed version control with GitHub, and gained experience with APIs, database management, and CI/CD practices.
+- Enhanced HTML and CSS skills through app development, applying modern techniques such as CSS variables, Flexbox, CSS Grid, and focusing on animation, typography, and accessibility best practices.
 
 ## Projects:
 
