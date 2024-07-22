@@ -9,6 +9,8 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 <div align="left">
   <a href="https://www.linkedin.com/in/oanapintoiu">
     <img src="https://img.shields.io/badge/LinkedIn-blue" width="auto" height="30" alt="linkedin logo"  /> </a>
+    <a href="https://github.com/oanapintoiu">
+    <img src="https://img.shields.io/badge/GitHub-grey" width="auto" height="30" alt="linkedin logo"  /> </a>
       <a href="https://www.freecodecamp.org/opin">
      <img src="https://img.shields.io/badge/freeCodeCamp-navy" width="auto" height="30" alt="freeCodeCamp logo" />  </a>
       <a href="https://drive.google.com/file/d/1zr43xarGTckWUPAcv0LxZB6UaC1S-Iph/view?usp=sharing">
