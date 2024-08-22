@@ -8,13 +8,13 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/oanapintoiu">
-    <img src="https://img.shields.io/badge/LinkedIn-blue" width="auto" height="30" alt="linkedin logo"  /> </a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue" width="auto" height="30" alt="linkedin logo"  /></a>
       <a href="https://drive.google.com/file/d/1zr43xarGTckWUPAcv0LxZB6UaC1S-Iph/view?usp=sharing">
-     <img src="https://img.shields.io/badge/Resume-darkgreen" width="auto" height="30" alt="resume" />  </a>
+     <img src="https://img.shields.io/badge/Resume-darkgreen" width="auto" height="30" alt="resume" /></a>
     <a href="https://github.com/oanapintoiu">
-    <img src="https://img.shields.io/badge/GitHub-black" width="auto" height="30" alt="linkedin logo"  /> </a>
+    <img src="https://img.shields.io/badge/GitHub-black" width="auto" height="30" alt="linkedin logo"  /></a>
       <a href="https://www.freecodecamp.org/opin">
-     <img src="https://img.shields.io/badge/freeCodeCamp-navy" width="auto" height="30" alt="freeCodeCamp logo" />  </a>
+     <img src="https://img.shields.io/badge/freeCodeCamp-navy" width="auto" height="30" alt="freeCodeCamp logo" /></a>
 </div>
 
 ## Skills:
@@ -32,7 +32,7 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 **Software Development Bootcamp & Self-Directed Learning, Makers Academy & freeCodeCamp (Jun 2023 - present)**
 
 - Completed an intensive 16 weeks Software Engineering Bootcamp at Makers Academy, gaining hands-on experience in full-stack development.
-- Earned freeCodeCamp certifications in [Responsive Web Design Certification](https://www.freecodecamp.org/certification/opin/responsive-web-design) and [JavaScript Algorithms & Data Structures Certification](), with ongoing progress toward additional certifications.
+- Earned freeCodeCamp certifications in [Responsive Web Design Certification](https://www.freecodecamp.org/certification/opin/responsive-web-design) and [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/opin/javascript-algorithms-and-data-structures-v8), with ongoing progress toward additional certifications.
 - Built and deployed dynamic web applications using technologies such as MongoDB, Express.js, React.js, and Node.js, while applying Agile methodologies and Test-Driven Development (TDD).
 - Led and collaborated in Agile scrum teams, enhancing problem-solving skills through pair programming, code reviews, and iterative development.
 - Applied Object-Oriented Programming (OOP) and SOLID design principles, managed version control with GitHub, and gained experience with APIs, database management, and CI/CD practices.
@@ -40,24 +40,26 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 
 ## Projects:
 
-| Project                                                           | Type  | Description                                                                                                                                                                                                                                             | Technologies                                                                       |
-| ----------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [Study Buddy](https://github.com/oanapintoiu/study_buddy_v2_op)   | Group | A web app which enables users to sign up, login, update their profiles, create study groups based on interests and level of knowledge. Users can join, leave and delete groups and within their own chat group, they can access Sheldon AI for support. | MongoDB, Express, React, Node.js, OpenAI API, HTML, CSS, JavaScript, Jest, Cypress |
-| [Moangoose](https://github.com/oanapintoiu/moangoose-mern)        | Group | A social media web app which enables users to sign up, login, update their photos, write, edit, like other posts and delete their own posts.                                                                                                            | MongoDB, Express, React, Node.js, HTML, CSS, JavaScript, Jest, Cypress             |
-| [Bank Tech Test](https://github.com/oanapintoiu/bank_tech_test)   | Solo  | A program that offers core bank features including deposit/withdraw and print formatted statements.                                                                                                                                                     | JavaScript, Node, Jest                                                             |
-| [Gradebook App](https://github.com/oanapintoiu/gradebook_app)     | Solo  | A simple gradebook app that can calculate an average, conver a number range into a letter, check if a student passed or failed and will print out a message.                                                                                            | JavaScript, Node, Jest                                                             |
-| [Byte & Brew Cafe Menu](https://github.com/oanapintoiu/cafe_menu) | Solo  | A cafe menu concept designed to be a simple, elegant representation of a cafe's offerings. The design features a modern layout with icons and a background image to enhance the visual appeal.                                                          | HTML, CSS                                                                          |
+| Project                 | Type | Description            | Technologies    | 
+|-------------------------|------|------------------------|-----------------|
+| [Portfolio site](https://github.com/oanapintoiu/portfolio_website) [(Live Site)](https://oanapintoiu.onrender.com/) | Solo | This repository contains the source code for my portfolio website, showcasing my projects, links to social media profiles, resume, and a functional contact form. It is designed to be visually appealing, interactive, and responsive. |JavaScript, RESTful API, Node, Express, HTML, CSS, |
+| [Pokemon API](https://github.com/oanapintoiu/pokemon_api) [(Live Site)](https://oanapintoiu.github.io/pokemon_api/) | Solo | This repository contains a simple web application that allows users to search for Pokémon by name or ID using the Pokémon API. The application retrieves and displays various details about the Pokémon, including its stats, types, and sprite. |JavaScript, RESTful API, HTML, CSS|
+| [Study Buddy](https://github.com/oanapintoiu/study_buddy_v2_op)| Group| This web app allows users to sign up, log in, and update their profiles. It enables them to create study groups based on their interests and level of knowledge. Users can join, leave, and delete groups as needed. Within their chat groups, they can also access Sheldon AI for additional support.| JavaScript, OpenAI API, MongoDB, Express, React, Node.js, HTML, CSS, Jest, Cypress | 
+| [Moangoose](https://github.com/oanapintoiu/moangoose-mern) | Group| A social media web app, developed as a group project, that enables users to sign up, log in, update their photos, write, edit, like other posts, and delete their own posts. |JavaScript, MongoDB, Express, React, Node.js, HTML, CSS, Jest, Cypress | 
+| [Bank Tech Test](https://github.com/oanapintoiu/bank_tech_test) | Solo| A program that offers core bank features including deposit/withdraw and print formatted statements. | JavaScript, Node, Jest |
+| [Gradebook App](https://github.com/oanapintoiu/gradebook_app) |Solo| A simple gradebook app that can calculate an average, cover a number range into a letter, check if a student passed or failed, and print out a message. | JavaScript, Node, Jest |
+| [Cafe Menu](https://github.com/oanapintoiu/cafe_menu) [(Live Site)](https://oanapintoiu.github.io/cafe_menu/)| Solo| A cafe menu concept designed to be a simple, elegant representation of a cafe's offerings. The design features a modern layout with icons and a background image to enhance the visual appeal. | HTML, CSS |                                                                |
 
 ## Most Relevant Work Experience:
 
 **Transformations Programme Manager, Schneider Electric (Sep 2019 - Feb 2023)**
 
 - Acted as Chief of Staff to the Vice President in developing and executing strategic initiatives to enhance people engagement and business development.
+- Enhanced and carried out the UK&I Well-being strategy for 4.5k employees, collaborating closely with the Global Wellbeing Team and UK Executive Committee to ensure alignment with organizational goals.
 - Guided the development and drafting of frameworks, policies, and procedures focusing on wellbeing, Diversity, Equity, and Inclusion (DEI), health and safety, communication strategies, digitalization, process optimization, and employee development.
 - Established a comprehensive strategy alongside various departmental stakeholders for recruiting diverse talent in engineering which included hiring pathways, robust training programs, career advancement frameworks, and seamless team integration.
 - Successfully formulated and implemented the deployment of Microsoft Teams, ensuring training for all teams within a stringent 2-week timeframe at the onset of lockdown. Subsequently introduced additional project management tools, enhancing team communication, efficiency, and collaboration.
 - Implemented a systematic monthly communications schedule which ensured comprehensive dissemination of relevant information, encompassing latest developments, projects, initiatives, training opportunities, and invaluable resources across all organizational tiers.
-- Enhanced and carried out the UK&I Well-being strategy for 4.5k employees, collaborating closely with the Global Wellbeing Team and UK Executive Committee to ensure alignment with organizational goals.
 
 **Digital Energy Graduate, Schenider Electric (Sep 2018 - Sep 2019)**
 
