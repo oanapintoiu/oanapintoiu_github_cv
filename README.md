@@ -21,36 +21,39 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 
 ## Skills:
 
-| Category                       | Skills/Technologies                                                                                                                                                                                        |
-| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Programming Skills**         | HTML, CSS, Javascript, Ruby, Jest, RSpec, MongoDB, Express, React, Mongoose, Node.js, PostgreSQL, SQL, Cypress                                                                                             |
-| **Methodologies**              | Agile & Traditional Project Management, Test-Driven Development (TDD), Object-oriented Programming (OOP), Change Management                                                                                |
-| **Design & Development Tools** | Canva, Figma, Github, VSCode, MS Office Suite, Project Management Tools, Cloud Content Management                                                                                                          |
-| **Management Skills**          | Strategic Planning, Performance Metrics & KPIs, Business Strategy, Digital Transformation, Team & Stakeholder Management, Transformational Leadership & Development, Coaching & Mentoring, Ethical Conduct |
-| **Professional Traits**        | Adaptability, Strategic Vision, Cross-Functional Collaboration, Result-Oriented, Employee Wellness                                                                                                         |
+| Category  | Skills/Technologies |
+| --------- | ------------------- |
+| **Programming Skills** | Javascript, Python, Ruby, HTML, CSS, Tailwind CSS, Django, MongoDB,
+Express, React, Mongoose, Node.js, PostgreSQL, SQL., Unitest, Jest, Rspec|
+| **Methodologies** | Agile & Traditional Project Management, Test-Driven Development (TDD), Object-oriented Programming (OOP), Change Management |
+| **Design & Development Tools** | Canva, Figma, Github, VSCode, MS Office Suite, Project Management Tools, Cloud Content Management |
+| **Management Skills** | Strategic Planning, Performance Metrics & KPIs, Business Strategy, Digital Transformation, Team & Stakeholder Management, Transformational Leadership & Development, Coaching & Mentoring, Ethical Conduct |
+| **Professional Traits** | Adaptability, Strategic Vision, Cross-Functional Collaboration, Result-Oriented, Employee Wellness|
 
 ## Tech Experience:
 
 **Software Development Bootcamp & Self-Directed Learning, Makers Academy & freeCodeCamp (Jun 2023 - present)**
 
-- Completed an intensive 16 weeks Software Engineering Bootcamp at Makers Academy, gaining hands-on experience in full-stack development.
-- Earned freeCodeCamp certifications in [Responsive Web Design Certification](https://www.freecodecamp.org/certification/opin/responsive-web-design) and [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/opin/javascript-algorithms-and-data-structures-v8), with ongoing progress toward additional certifications.
-- Built and deployed dynamic web applications using technologies such as MongoDB, Express.js, React.js, and Node.js, while applying Agile methodologies and Test-Driven Development (TDD).
-- Led and collaborated in Agile scrum teams, enhancing problem-solving skills through pair programming, code reviews, and iterative development.
-- Applied Object-Oriented Programming (OOP) and SOLID design principles, managed version control with GitHub, and gained experience with APIs, database management, and CI/CD practices.
-- Enhanced HTML and CSS skills through app development, applying modern techniques such as CSS variables, Flexbox, CSS Grid, and focusing on animation, typography, and accessibility best practices.
+- Completed a 16-week intensive Software Engineering Bootcamp at Makers Academy, acquiring hands-on experience in full-stack development.
+- Achieved freeCodeCamp certifications in [Responsive Web Design Certification](https://www.freecodecamp.org/certification/opin/responsive-web-design) and [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/opin/javascript-algorithms-and-data-structures-v8), currently pursuing a Python certification.
+- Developed and launched dynamic web applications using Django, MongoDB, Express.js, React.js, and Node.js, following Agile methodologies and Test-Driven Development (TDD).
+- Led Agile scrum teams, honing problem-solving abilities through pair programming, code reviews, and iterative development.
+- Implemented Object-Oriented Programming (OOP) and SOLID design principles, utilized GitHub for version control, and gained expertise in APIs, database management, and CI/CD practices.
+- Advanced HTML and CSS proficiency by creating apps with modern techniques like CSS variables,
+Flexbox, CSS Grid, emphasizing animation, typography, and accessibility best practices.
 
 ## Projects:
 
 | Project                 | Type | Description            | Technologies    | 
 |-------------------------|------|------------------------|-----------------|
-| [Portfolio Site](https://github.com/oanapintoiu/portfolio_website) [(Live Site)](https://oanapintoiu.onrender.com/) | Solo | This repository contains the source code for my portfolio website, showcasing my projects, links to social media profiles, resume, and a functional contact form. It is designed to be visually appealing, interactive, and responsive. |JavaScript, RESTful API, Node, Express, HTML, CSS, |
+| [Portfolio Site](https://github.com/oanapintoiu/portfolio_website) [(Live Site)](https://oanapintoiu.onrender.com/) | Solo | This repository contains the source code for my portfolio website, showcasing my projects, links to social media profiles, resume, and a functional contact form. It is designed to be visually appealing, interactive, and responsive. |JavaScript, RESTful API, Node, Express, HTML, CSS |
+| [Tebby Bear Corner](https://github.com/oanapintoiu/tebby_bear_corner/tree/main) | Solo | Project created using Python, Django, and Tailwind to resemble a marketplace where users can put their old teddy bears up for sale. Users can currently sign up, sign in, log out, view their dashboard, add and update items using image, price, description, category, search for items, and more. |Python, Django, Tailwind CSS |
 | [Pokemon API](https://github.com/oanapintoiu/pokemon_api) [(Live Site)](https://oanapintoiu.github.io/pokemon_api/) | Solo | This repository contains a simple web application that allows users to search for Pokémon by name or ID using the Pokémon API. The application retrieves and displays various details about the Pokémon, including its stats, types, and sprite. |JavaScript, RESTful API, HTML, CSS|
 | [Study Buddy](https://github.com/oanapintoiu/study_buddy_v2_op)| Group| This web app allows users to sign up, log in, and update their profiles. It enables them to create study groups based on their interests and level of knowledge. Users can join, leave, and delete groups as needed. Within their chat groups, they can also access Sheldon AI for additional support.| JavaScript, OpenAI API, MongoDB, Express, React, Node.js, HTML, CSS, Jest, Cypress | 
 | [Moangoose](https://github.com/oanapintoiu/moangoose-mern) | Group| A social media web app, developed as a group project, that enables users to sign up, log in, update their photos, write, edit, like other posts, and delete their own posts. |JavaScript, MongoDB, Express, React, Node.js, HTML, CSS, Jest, Cypress | 
 | [Bank Tech Test](https://github.com/oanapintoiu/bank_tech_test) | Solo| A program that offers core bank features including deposit/withdraw and print formatted statements. | JavaScript, Node, Jest |
 | [Gradebook App](https://github.com/oanapintoiu/gradebook_app) |Solo| A simple gradebook app that can calculate an average, cover a number range into a letter, check if a student passed or failed, and print out a message. | JavaScript, Node, Jest |
-| [Cafe Menu](https://github.com/oanapintoiu/cafe_menu) [(Live Site)](https://oanapintoiu.github.io/cafe_menu/)| Solo| A cafe menu concept designed to be a simple, elegant representation of a cafe's offerings. The design features a modern layout with icons and a background image to enhance the visual appeal. | HTML, CSS |                                                                     |     |
+| [Cafe Menu](https://github.com/oanapintoiu/cafe_menu) [(Live Site)](https://oanapintoiu.github.io/cafe_menu/)| Solo| A cafe menu concept designed to be a simple, elegant representation of a cafe's offerings. The design features a modern layout with icons and a background image to enhance the visual appeal. | HTML, CSS |                                   |     |
 
 ## Most Relevant Work Experience:
 
