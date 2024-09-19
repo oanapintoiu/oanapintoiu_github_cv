@@ -23,8 +23,7 @@ Experienced Transformations Programme Manager with a degree in engineering, and 
 
 | Category  | Skills/Technologies |
 | --------- | ------------------- |
-| **Programming Skills** | Javascript, Python, Ruby, HTML, CSS, Tailwind CSS, Django, MongoDB,
-Express, React, Mongoose, Node.js, PostgreSQL, SQL., Unitest, Jest, Rspec|
+| **Programming Skills** | Javascript, Python, Ruby, HTML, CSS, Tailwind CSS, Django, MongoDB, Express, React, Mongoose, Node.js, PostgreSQL, SQL., Unitest, Jest, Rspec|
 | **Methodologies** | Agile & Traditional Project Management, Test-Driven Development (TDD), Object-oriented Programming (OOP), Change Management |
 | **Design & Development Tools** | Canva, Figma, Github, VSCode, MS Office Suite, Project Management Tools, Cloud Content Management |
 | **Management Skills** | Strategic Planning, Performance Metrics & KPIs, Business Strategy, Digital Transformation, Team & Stakeholder Management, Transformational Leadership & Development, Coaching & Mentoring, Ethical Conduct |
